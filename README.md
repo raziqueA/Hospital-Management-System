@@ -10,4 +10,6 @@ The project's capabilities include registration of patients, storing their detai
 4. Haematology
 5. Gastroenterology
 6. Gynaecology
+
+
 In this project I've used OOPS concept along with data file handling.
